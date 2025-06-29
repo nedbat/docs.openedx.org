@@ -1,12 +1,12 @@
-Site Operators: Quick Start
-###########################
+Site Operators: Quickstarts
+#############################
 
-.. tags:: site operator, quickstart
+.. tags:: site operator, concept
 
-Watch the following video on how to set up Open edX quickly using Tutor:
+.. toctree::
+   :glob:
 
-.. youtube:: QngJaemFLms
-
+   *
 
 **Maintenance chart**
 

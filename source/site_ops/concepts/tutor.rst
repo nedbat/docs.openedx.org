@@ -1,12 +1,19 @@
-Site Operators: Concepts
-########################
+.. _Tutor Concept (Operator):
+
+What is Tutor?
+###############
 
 .. tags:: site operator, concept
 
-.. toctree::
-   :glob:
+This video, by Edly Academy, explains the basic concepts of Tutor.
 
-   *
+.. youtube:: BzNcrmyFpw4
+
+.. seealso::
+
+   :ref:`Site Operator QS`
+
+   :ref:`Tutor QS (Operator)`
 
 **Maintenance chart**
 
